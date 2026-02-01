@@ -43,7 +43,7 @@ Machine Learning learns patterns from historical data and enables **data-driven 
 
 ### Databricks Lakehouse – Medallion Architecture
 
-![Architecture Diagram](images/architecture.png)
+![Architecture Diagram](https://github.com/GoduguVeena/IDC_Codebasics_Hackathon/blob/main/architecture.png)
 
 ### 🥉 Bronze Layer
 - Raw transaction ingestion
@@ -96,7 +96,7 @@ A customer is labeled as churned if they have not made a purchase in the last **
   - Metric logging
   - Model versioning
 
-![MLflow Experiment](images/mlflow.png)
+![MLflow Experiment](https://github.com/GoduguVeena/IDC_Codebasics_Hackathon/blob/main/mlflow.png)
 
 ---
 
@@ -122,7 +122,7 @@ This ensures **retention budgets are spent where they matter most**.
 
 ## 📊 Analytics & Business Insights
 
-![Gold Table Preview](images/gold_table.png)
+![Gold Table Preview](https://github.com/GoduguVeena/IDC_Codebasics_Hackathon/blob/main/gold_table.png)
 
 Key questions answered:
 - How many customers are at high churn risk?
@@ -140,7 +140,7 @@ Example insight:
 
 The entire pipeline is automated using **Databricks Jobs**.
 
-![Databricks Job Run](images/jobs.png)
+![Databricks Job Run](https://github.com/GoduguVeena/IDC_Codebasics_Hackathon/blob/main/jobs.png)
 
 Pipeline:  
 
